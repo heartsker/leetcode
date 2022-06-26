@@ -23,3 +23,5 @@ For your convenience, here is a table of contents:
 
 - [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
     - [Solution](https://github.com/heartsker/LeetCodeSolutions-Hard/blob/main/25_Reverse_Nodes_in_k-Group.swift)
+- [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
+    - [Solution]((https://github.com/heartsker/LeetCodeSolutions-Hard/blob/main/30_Substring_with_Concatenation_of_All_Words.swift))
