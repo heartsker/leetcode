@@ -8,3 +8,5 @@ Here you can find my solutions for LeetCode Problems
     - [Solution]()
 23. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
     - [Solution]()
+25. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+    - [Solution]()
